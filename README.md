@@ -1,6 +1,12 @@
 
 # codetentacles_Tasks
 Laravel project URL : /admin/login
+Instructions
+1.clone the repository
+2.install Dependencies
+3.import database
+4.configure Environment
+5. run the Project
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
