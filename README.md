@@ -1,6 +1,6 @@
 
 # codetentacles_Tasks
-Laravel project URL : /admin/login
+Laravel project URL : /admin/login                                                                                                                                                         
 Instructions
 1.clone the repository
 2.install Dependencies
